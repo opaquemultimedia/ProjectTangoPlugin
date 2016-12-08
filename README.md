@@ -7,9 +7,9 @@ Android deployments.
 
 * Create a "Plugins" folder inside you Unreal 4 project, if it doesn't already exist.
 * Clone this repository into the Plugins folder:
-* `git clone https://github.com/opaquemultimedia/Tango4Unreal.git`
+* `git clone https://github.com/opaquemultimedia/ProjectTangoPlugin.git`
 * Alternatively, if your project is already a git repository:
-* `git submodule add https://github.com/opaquemultimedia/Tango4Unreal.git`
+* `git submodule add https://github.com/opaquemultimedia/ProjectTangoPlugin.git`
 * Refer to the [Git Book](https://git-scm.com/book/en/v2/Git-Tools-Submodules) for more
 information about git submodules
 * Go to your plug-in settings, browse the to "Google" category, enable the plug-in, then restart
