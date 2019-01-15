@@ -1,3 +1,7 @@
+# Deprecation notice 
+
+Thanks for your interest in the Project Tango Plugin for Unreal Engine 4. This repository is no longer maintained. Please see https://developers.google.com/ar/ for the latest information on Google AR capabilities for UE4.
+
 # Tango 4 Unreal Plug-In
 
 The Tango 4 Unreal Plug-In enables the use of Project Tango tablet devices sensors within Unreal 4
